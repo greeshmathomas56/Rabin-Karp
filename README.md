@@ -8,3 +8,6 @@ For more profound details check   Karp, Richard M.; Rabin, Michael O. (March 198
 
 
 
+
+
+[![Join the chat at https://gitter.im/greeshmathomas56/Rabin-Karp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/greeshmathomas56/Rabin-Karp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
